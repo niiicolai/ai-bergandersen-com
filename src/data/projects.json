@@ -6,5 +6,13 @@
     "image": "/ai/github-user-tracker.png",
     "technologies": ["React", "Node.js", "GitHub API"],
     "demoUrl": "https://www.bergandersen.com/widget-github-user-tracker/"
+  },
+  {
+    "id": 2,
+    "title": "Ping-Pong Game",
+    "description": "In the spirit of developing iframe-widgets using AI, I decided to create an embeddable ping-pong game iframe-widget using OpenCode.",
+    "image": "/ai/ping-pong-game.png",
+    "technologies": ["React", "Node.js", "Game"],
+    "demoUrl": "https://www.bergandersen.com/widget-ping-pong-game/"
   }
 ]
