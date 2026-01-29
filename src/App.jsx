@@ -9,8 +9,8 @@ function App() {
       <main>
         <section className="hero">
           <div className="hero-content">
-            <h1>AI-Powered Projects</h1>
-            <p>Showcasing innovative projects built with artificial intelligence</p>
+            <h1>Projects</h1>
+            <p>Showcasing projects built with artificial intelligence</p>
           </div>
         </section>
         <ProjectGrid />

@@ -1,27 +1,6 @@
 import projects from '../data/projects.json'
 import './ProjectGrid.css'
 
-/*
-Example
-{
-    "id": 1,
-    "title": "AI Chat Assistant",
-    "description": "An intelligent chatbot powered by natural language processing for customer support",
-    "fullDescription": "A sophisticated chat assistant that leverages advanced NLP models to provide intelligent customer support. The system can understand context, maintain conversation history, and provide personalized responses.",
-    "image": "https://via.placeholder.com/600x400/667eea/ffffff?text=AI+Chat+Assistant",
-    "technologies": ["React", "Node.js", "OpenAI API", "MongoDB"],
-    "aiImplementation": "Integrated GPT-4 for natural language understanding and response generation. Implemented context-aware conversations with memory management and sentiment analysis.",
-    "features": [
-      "Natural language processing",
-      "Context-aware conversations",
-      "Multi-language support",
-      "Sentiment analysis",
-      "Integration with CRM systems"
-    ],
-    "demoUrl": "https://example.com/demo"
-  }
-*/
-
 const ProjectGrid = () => {
   return (
     <section className="projects-section">

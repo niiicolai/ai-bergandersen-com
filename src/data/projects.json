@@ -1,3 +1,10 @@
 [
-  
+  {
+    "id": 1,
+    "title": "GitHub User Tracker",
+    "description": "The project is inspired by an earlier project I developed, which made it possible to display GitHub repository information using an iframe. I decided to test OpenCode's ability to redesign that project to display GitHub user information.",
+    "image": "/ai/github-user-tracker.png",
+    "technologies": ["React", "Node.js", "GitHub API"],
+    "demoUrl": "https://www.bergandersen.com/widget-github-user-tracker/"
+  }
 ]

@@ -1,6 +1,6 @@
 # AI Frontpage
 
-A modern single page application built with Vite and React to showcase AI-powered projects.
+A modern single page application built with Vite and React to showcase projects developed with AI agents.
 
 ## Features
 
@@ -63,11 +63,8 @@ To add new AI projects to showcase:
      "id": 4,
      "title": "Your AI Project",
      "description": "Brief description",
-     "fullDescription": "Detailed description",
      "image": "image-url",
      "technologies": ["React", "AI", "Other"],
-     "aiImplementation": "How AI was implemented",
-     "features": ["Feature 1", "Feature 2"],
      "demoUrl": "https://demo-url.com"
    }
    ```
@@ -79,19 +76,6 @@ The project is pre-configured for GitHub Pages deployment:
 - Base URL is set to `/ai-frontpage/` in `vite.config.js`
 - Deployment scripts are added to `package.json`
 - Build output is optimized for static hosting
-
-## Custom Domain
-
-To configure the custom domain `domain.example.com`:
-
-1. Create a `CNAME` file in the `public` directory:
-   ```
-   domain.example.com
-   ```
-
-2. Configure DNS settings to point to GitHub Pages
-
-3. Enable custom domain in GitHub repository settings
 
 ## Technologies Used
 
