@@ -14,5 +14,13 @@
     "image": "/ai/ping-pong-game.png",
     "technologies": ["React", "Node.js", "Game"],
     "demoUrl": "https://www.bergandersen.com/widget-ping-pong-game/"
+  },
+  {
+    "id": 2,
+    "title": "Snake Game",
+    "description": "Another iframe-widget developed using OpenCode.",
+    "image": "/ai/snake-game.png",
+    "technologies": ["React", "Node.js", "Game"],
+    "demoUrl": "https://www.bergandersen.com/widget-snake-game/"
   }
 ]
